@@ -1,0 +1,5 @@
+# Ignoring for copyright reasons
+/Originalspielregeln/
+
+# Render-Artefakte
+/Seite[0-9].pdf
